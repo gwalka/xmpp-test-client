@@ -1,16 +1,19 @@
-# flutter_application_1
+# XMPP TEST CLIENT
 
-A new Flutter project.
+Работает на мобильных устройствах на данный момент
+Перед проверкой запустить android emulator
 
-## Getting Started
+https://github.com/gwalka/xmpp-test-client.git
+xmpp-test-client
+flutter pub get
+flutter run
+приложение запустится откртом эмуляторе
 
-This project is a starting point for a Flutter application.
+Если нет своих учетных данных можно воспользоваться подготовленными:
+itisfirstaccount@jabber.ru
+*(!@SA<Xacx1
+jabber.ru
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+аккаут содержит 2 подтвержденых контакта:
+itisfirstaccount@xmpp.jp
+butitssecond@xmpp.jp
