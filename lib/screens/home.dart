@@ -1,4 +1,3 @@
-// lib/screens/home.dart
 import 'package:flutter/material.dart';
 import '../xmpp_client.dart';
 import 'contacts.dart';

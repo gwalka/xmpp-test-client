@@ -1,4 +1,3 @@
-// lib/screens/login_screen.dart
 import 'package:flutter/material.dart';
 import '../xmpp_client.dart';
 import 'home.dart';
@@ -25,6 +24,7 @@ class _LoginScreenState extends State<LoginScreen> {
   }
 
   Future<void> _onConnectPressed() async {
+    debugPrint("DEBUG: _onConnectPressed вызван!");
     setState(() => _connecting = true);
     final jid = _jidCtrl.text.trim();
     final pass = _passCtrl.text;
